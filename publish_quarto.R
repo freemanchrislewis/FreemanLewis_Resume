@@ -31,6 +31,11 @@ if (branch == "") {
 branch <- system("git branch --show-current", intern = TRUE)
 print(branch)  # This should print "main"
 
+system("git status")
+
+push_result <- system("git push -u origin main", intern = TRUE)
+print(push_result)
+
 # Verify and set the correct remote URL
 system('git remote set-url origin https://github.com/freemanchrislewis/FreemanLewis_Resume.git')
 system("git remote -v")
