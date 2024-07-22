@@ -8,6 +8,7 @@ library(quarto)
 
 # Set the working directory to your Quarto project
 setwd("/Users/freemanlewis/Desktop/Github/Quarto Documents/")
+getwd()
 
 # Render the Quarto document
 quarto_render("FreemanLewis_Resume_20240722.qmd")
@@ -27,7 +28,11 @@ if (branch == "") {
   system("git checkout main")
 }
 
-# Verify the remote URL
+branch <- system("git branch --show-current", intern = TRUE)
+print(branch)  # This should print "main"
+
+# Verify and set the correct remote URL
+system('git remote set-url origin https://github.com/freemanchrislewis/FreemanLewis_Resume.git')
 system("git remote -v")
 
 # Push the files to the main branch of your remote repository
