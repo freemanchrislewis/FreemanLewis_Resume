@@ -1,18 +1,8 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-FL_Transformations_To_Normality_052824_files/
-My_First_Website_files/
-Untitled_files/
-.DS_Store
-FL_Transformations_To_Normality_052824.html
-FL_Transformations_To_Normality_052824.qmd
-FL_Transformations_To_Normality_060524.qmd
-My_First_Website.html
-My_First_Website.qmd
-Untitled.html
-Untitled.qmd
-_publish.yml
-output.txt
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+!FreemanLewis_Resume_20240722.pdf
+!FreemanLewis_Resume_20240722.qmd
 
