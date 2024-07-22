@@ -1,0 +1,172 @@
+---
+format: pdf
+header-includes:
+  - \usepackage{titling}
+  - \setlength{\droptitle}{-2cm}
+  - \setlength{\parskip}{0pt}
+  - \setlength{\parindent}{0pt}
+  - \usepackage{graphicx}
+---
+
+\begin{center}
+  \huge \textbf{Freeman Chris Lewis Jr.}\\[1em]
+  \large
+  Phone: 707-398-1511\\
+  Email: \href{mailto:flewi017@fiu.edu}{flewi017@fiu.edu}
+\end{center}
+
+# Introduction
+I am an experienced research scientist with a strong background in neuroscience, public health, and environmental health sciences. Currently pursuing a PhD in Environmental Health Sciences at Florida International University, my research focuses on the intersection of brain, behavior, and the environment. I have a proven track record in conducting complex research experiments, data analysis, and scientific communication.
+
+# Education
+
+- **University of California, Davis**
+  - Bachelor of Science (BS) in Physiological Psychology with an area of emphasis in Neurology, Physiology & Behavior (2008-2013)
+  
+- **Tulane University School of Public Health & Tropical Medicine**
+  - Master of Public Health (MPH) in Social, Behavioral, and Population Sciences (2020-2022)
+
+- **Florida International University Robert Stemple College of Public Health and Social Work**
+  - Doctor of Philosophy (PhD) student in Environmental Health Sciences with an area of emphasis in Brain, Behavior, and the Environment (2022-present) 
+  - Expected graduation: August 2026
+
+# Notable Coursework and Lab Experience
+
+- Organic Chemistry (Lab)
+- Molecular Biology (Lab)
+- General Biology and Chemistry (Lab)
+- Physiological Psychology (Lab)
+- Biochemistry (Lab)
+- Neurobiology, Physiology, and Behavior (Lab)
+- Hormones and Behavior (Lab)
+- Cognitive Neuroscience
+- Biological Psychology
+- Developmental Disorders
+- Human Development
+- Comparative Neurobiology (Lab)
+
+# Notable Workshops and Self-Paced Learning
+
+- **Stanford’s Institute for Computation and Mathematical Engineering (ICME)**
+  - Linear Algebra
+  - Introduction to Mathematical Optimization
+  - Introduction to Machine Learning
+  - Introduction to Deep Learning
+  - Deep Learning for Natural Language Processing
+  - Data Visualization in Tableau
+
+# Summary of Qualification and Skills
+
+- Advanced proficiency with research techniques including those involved in behavioral neuroscience, physiology, microscopy, genomics, and cell biology.
+- Expertise in designing and executing aseptic techniques and stereotaxic administration of neuroanatomical tracers into localized brain regions.
+- Excellent ability to conduct research experiments while accurately maintaining and meticulously recording procedures and results.
+- Capable of recreating animal models of disease to test proprietary compounds.
+- Above average communication skills with the aptitude to effectively relay information to an audience.
+- PC Skills: Microsoft Office (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Access), Statistica, Sigmaplot, Ethovision (automated tracking software), Tableau.
+- Programming Languages: SAS, SQL, R, Python.
+
+# Current PhD Research
+**Computational Environmental Neurotoxicology**
+
+- **Advanced Bioinformatics**: Expertise in bioinformatics tools and techniques for analyzing complex big biological data.
+- **Coding and Data Analysis**: Proficient in coding languages (e.g., R, Python) for data manipulation, statistical analysis, and visualization.
+- **Multi-Omics Integration**: Skilled in integrating multi-omics data, including genomics, transcriptomics, metabolomics, and lipidomics, to uncover molecular pathways and biomarkers.
+- **Molecular Analysis**: Proficient in single-cell transcriptomics and metabolomics to investigate molecular pathways affected by neurotoxic metals.
+- **Interdisciplinary Collaboration**: Experience in collaborating with interdisciplinary teams to explore the public health implications of neurotoxic exposures.
+- **Data Presentation**: Skilled in preparing and presenting research findings at national and international conferences.
+- **Analytical Tools**: Competent in utilizing ultra-high-performance liquid chromatography (UHPLC) and mass spectrometry (MS) for untargeted analyses of metabolites and lipids.
+- **Statistical Analysis**: Knowledgeable in comprehensive statistical analyses including machine learning and artificial intelligence.
+- **Environmental Exposure Assessment**: Conducting detailed environmental exposure assessments, including proximity to industrial sources and analysis of environmental toxicants in various environmental media.
+- **Biomarker Identification**: Identifying and analyzing biomarkers for disease and exposure effects through biomarker profiling.
+
+
+# Past Professional Experience
+
+## Principal Research Associate
+**In Vivo Physiology/Pre-Clinical Translational Pharmacology, Calico Life Science (Alphabet Company)**  
+**(Dr. Ganesh Kolumam & Dr. Nick Van Bruggen, 2015-2022)**
+
+- Independently created experimental designs, prepared samples, constructed libraries, and generated data of gene expression patterns in animal models of disease using next generation Illumina sequencing.
+- Familiarity with droplet-based and plate-based single cell assays and platforms (10x Genomics), spatial transcriptomics, laboratory robotics, large-scale experiments, and process development.
+- Experience with cell culture and tissue processing including isolation of Mouse Embryonic Fibroblasts.
+- Independently performed animal dosing (routes: Intravenous, Intraperitoneal, Subcutaneous, Intramuscular, & Oral) and animal blood collections (Retro Orbital, Cardiac Puncture, Tail Nick, Submandibular) in mice and rats to perform Pharmacodynamic and Pharmacokinetic studies.
+- Harvested tissues during necropsy for further downstream analysis.
+- Autonomously performed Intracerebroventricular (ICV) stereotaxic injections and subsequent tissue processing (brain sectioning, immunohistochemical staining, H&E staining).
+- Performed microsurgeries/microdissections of tissues/organs of the nervous, digestive, cardiovascular, and musculoskeletal systems.
+- Purified DNA/RNA for -omic’s analysis (both single cell and bulk -omic’s sequencing).
+- Developed in vivo assays to test drug target engagement to be subsequently used for human clinical studies.
+- Independently completed in vitro assays to test for target engagement through secondary biomarker measurements.
+- Familiarity with Promethion Metabolic Cages and Vium Video Monitoring Systems for large scale metabolic and computer vision phenotype identification.
+
+## Research Scientist Intern
+**Genentech (Roche Group)**  
+**(Dr. Kimberly Scearce-Levie, 2015)**
+
+- Autonomously constructed equipment, refined training protocols, trained subjects, analyzed data, and communicated results of cognitive behavior to project leads in a rodent model of Alzheimer’s disease using novel touchscreen operant conditioning technology.
+- Developed skills in molecular biology – specifically immunohistochemistry techniques (perfusion, dissection, and sectioning).
+- Mastered pharmaceutical compound administration through various dosing routes (intraperitoneal, subcutaneous, and oral gavage).
+
+## Junior Specialist
+**University of California, Davis Department of Psychiatry and Behavioral Neuroscience (MIND Institute)**  
+**(Dr. Jacqueline Crawley, 2012-2015)**
+
+- Independently conducted assessments of animal health and diagnosed health concerns when applicable.
+- Conducted a multitude of behavioral assays including but not limited to the measurement of ultrasonic vocalizations in transgenic models of Autism.
+- Followed proper IACUC protocol involving the testing and handling of animal subjects.
+- Catalogued and classified experimental data using various software packages.
+- Prepared cohesive analyses of tabulated experimental data for article publication.
+
+## Undergraduate Lab Research Assistant
+**University of California Davis Psychology Department of Comparative Neurobiology**  
+**(Dr. Karen Bales, 2012-2013)**
+
+- Handled Prairie Vole subjects while administering Oxytocin intranasal injections.
+- Collected blood samples from Prairie Vole subjects and performed immunohistochemistry on the samples.
+- Conducted behavioral assays and scored behavioral traits of Prairie Vole subjects.
+- Quantified neuro staining within Prairie Vole brains using neuroimaging techniques.
+- Surgically removed Prairie Vole brains for experimentation.
+
+# Awards
+
+- University Graduate School Inclusion Fellow, Florida International University Robert Stemple College of Public Health and Social Work (Fall 2022-Summer 2025)
+
+# Volunteer Experience
+
+## Monitoring and Evaluation Team Volunteer
+**Tulane School of Public Health and Tropical Medicine (The Skin You're In)**  
+**(Dr. Thomas A. LaVeist, 2020)**
+
+- Social marketing campaign to dispel myths and raise awareness in the community about staying safe and healthy throughout the COVID-19 pandemic.
+- Monitored and evaluated program activities, quantified goal attainment, and reported to team leads.
+
+## Emergency Room Intern
+**University of California Davis Medical Center**  
+**(Dr. Mary L. Bing, 2012)**
+
+- Developed professional relationships with and conveyed feelings of sensitivity towards patients and their comfort by performing basic duties (maintained the cleanliness of patients’ rooms, motivated rehabilitation and recovery through conversation, and perceived non-verbal social cues for assistance).
+- Initiated new ideas as well as coordinated tasks to provide support to medical staff by respectfully delegating specific duties and spatial locations to fellow undergraduate peers within the Emergency Room.
+- Provided alternative solutions to patients in the waiting area by facilitating discussion and listening attentively to the feelings and issues they described.
+
+# Publications
+
+- Chi, J., Shu, J., Li, M., Mudappathi, R., Jin, Y., Lewis, F., ... & Gu, H. (2024). Artificial Intelligence in Metabolomics: A Current Review. TrAC Trends in Analytical Chemistry.
+- Yang M, Mahrt, EJ, Lewis, FC, Foley, G, Portmann, T, Dolmetsch, RE, Portfors, CV, Crawley, JN (2015). 16p11.2 Deletion Syndrome Mice Display Sensory Deficits and Reduced Ultrasonic Vocalizations during Social Interactions. Autism Research.
+- Yang M, Lewis F, Foley G, Crawley JN (2015). In Tribute to Bob Blanchard: Divergent Behavioral Phenotypes of 16p11.2 Deletion Mice Reared in Same-Genotype Versus Mixed-Genotype Cages. Physiology and Behavior.
+- Yang M, Lewis F, Sarvi M, Foley G, Crawley J (2015). 16p11.2 Deletion Mice Display Cognitive Deficits in Touchscreen Learning and Novelty Recognition Tasks. Learning and Memory.
+
+# Conference Presentations
+
+- Kathryn R. Ayres, Freeman C. Lewis, Huda M. Mobarki, Juan P. Liuzzi. Investigating the Nexus Between Zinc Intake and Blood Lead Levels on Gut Microbiome Diversity: A Secondary Analysis of NHANES Data. Annual American Society of Nutrition Conference. Chicago, 2024.
+- Yang M, Mahrt J, Lewis F, Foley G, Portmann T, Dolmetsch R, Portfors C, Crawley J. 16p11.2 deletion syndrome mice display ultrasonic vocalization deficits during social interactions. Society for Neuroscience (SfN) Annual Meeting. Washington, D.C. 2015.
+- Yang M, Lewis F, Foley G, Portmann T, Dolmetsch R, Crawley J. 16p11.2 Deletion Mice Display Cognitive Deficits in Novelty Discrimination Tasks. The International Meeting for Autism Research (IMFAR). Salt Lake City, Utah. 2015.
+- Yang M, Lewis F, Foley G, Crawley J. 16p11.2 Deletion Mice Display Cognitive Deficits in Novelty Discrimination Tasks. International Behavioral Neuroscience Society (IBNS) Annual Meeting. British Columbia, Canada, 2015.
+
+# Abstract Submissions
+
+- Ambade A, Lewis F, Kolumam G, Morrison J, Cornicelli J. Defining the Onset of Fibrosis in a CDAA Diet Induced Mouse Model of Non-Alcoholic Steatohepatitis using RNA-seq / pathway profiling. American Association for the Study of Liver Diseases (AALSD). Digital Experience, 2020.
+
+---
+
+                          References available upon request
+
+---

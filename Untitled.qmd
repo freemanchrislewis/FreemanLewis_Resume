@@ -1,0 +1,5 @@
+---
+title: "Example Quarto Document 2"
+author: "Freeman Lewis"
+editor: visual
+---

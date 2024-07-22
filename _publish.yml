@@ -1,0 +1,4 @@
+- source: My_First_Website.qmd
+  quarto-pub:
+    - id: 3e5bfbe9-1da6-423e-9772-b8912d17e1c7
+      url: 'https://freemanlewis.quarto.pub/my-first-website'
