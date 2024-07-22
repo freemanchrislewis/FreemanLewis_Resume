@@ -16,7 +16,7 @@ header-includes:
 \end{center}
 
 # Introduction
-I am an experienced research scientist with a strong background in neuroscience, public health, and environmental health sciences. Currently pursuing a PhD in Environmental Health Sciences at Florida International University, my research focuses on the intersection of brain, behavior, and the environment. I have a proven track record in conducting complex research experiments, data analysis, and scientific communication.
+I am an experienced research scientist with a strong background in neuroscience, public health, and environmental health sciences. I am currently pursuing a PhD in Environmental Health Sciences at Florida International University where my research converges at the intersection of brain, behavior, and the environment. I have a proven track record in conducting complex research experiments, data analysis, and scientific communication.
 
 # Education
 
